@@ -1921,7 +1921,7 @@ public class ConfigManager {
 					}
 				}
 				
-				//concatenate regions string not required testing ConfigVersion1 branch
+				//concatenate regions string not required testing ConfigVersion1 branch, testing two branch switching
 				String newRegionStr = "";
 				for(int arrIndex=0;arrIndex<newRegions.size();arrIndex++){
 					newRegionStr += newRegions.get(arrIndex) + ",";
