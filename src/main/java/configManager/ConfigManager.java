@@ -1921,7 +1921,7 @@ public class ConfigManager {
 					}
 				}
 				
-				//concatenate regions string
+				//concatenate regions string not required
 				String newRegionStr = "";
 				for(int arrIndex=0;arrIndex<newRegions.size();arrIndex++){
 					newRegionStr += newRegions.get(arrIndex) + ",";
